@@ -1,0 +1,11 @@
+.Sidebar{
+    padding:25px 10px;
+    flex:0.33;
+    background-color: #f1f1f1;
+}
+.shortcuts-tag{
+    margin-top: 10px;
+    margin-left: 10px;
+    
+
+}

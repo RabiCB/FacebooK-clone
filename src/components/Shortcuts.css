@@ -1,0 +1,18 @@
+.Shortcuts{
+    display:flex;
+    padding:10px 10px;
+    align-items: center;
+    margin-top: 25px;
+    
+}
+
+.Shortcuts>h3{
+    margin-left: 15px;
+    font-weight: 600;
+
+
+}
+.Shortcuts:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+.Sidebarrow{
+    display: flex;
+    align-items: center;
+    padding: 0.6rem;
+    cursor: pointer;
+}
+
+.Sidebarrow:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.Sidebarrow >h4{
+    margin-left: 1.1rem;
+    font-weight: 600px;
+}
+.Sidebarrow >.MuiSvgIcon-root{
+    font-size: xx-large;
+    color:#2e81f4;
+}
